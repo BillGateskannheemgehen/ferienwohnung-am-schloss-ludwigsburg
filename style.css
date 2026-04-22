@@ -203,7 +203,7 @@ em { font-style: italic; color: var(--gold); }
 .hero-bg {
   position: absolute;
   inset: 0;
-  background: url('images/hero/map-background-2.jpg') center/cover no-repeat;
+  background: url('images/hero/apartment-interior.jpg') center/cover no-repeat;
   transform: scale(1.04);
   transition: transform 8s ease-out;
 }
